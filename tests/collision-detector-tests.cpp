@@ -9,7 +9,7 @@
 
 #include "../src/collision_detector.h"
 
-// Напишите здесь тесты для функции collision_detector::FindGatherEvents
+// Тесты для функции collision_detector::FindGatherEvents
 namespace Catch {
 template<>
 struct StringMaker<collision_detector::GatheringEvent> {
